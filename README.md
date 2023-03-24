@@ -1,6 +1,6 @@
 # Vishwakarma
 # Portfolio website for a company.
-# This is hosted on: [vishwakarmaaluminumandsteel.000webhostapp.com](https://vishwakarmaaluminumandsteel.000webhostapp.com).
+# This is hosted on: [https://anishdhatwalia.github.io/Vishwakarma/](https://anishdhatwalia.github.io/Vishwakarma/).
 # Following are the Snap shots of the website:
 ![Screenshot (311)](https://user-images.githubusercontent.com/83389467/186233669-1f5a693d-bf96-4647-92f8-d179ce077451.png)
 ![Screenshot (312)](https://user-images.githubusercontent.com/83389467/186233678-de530134-ff70-40c0-9f50-68d955ba559f.png)
